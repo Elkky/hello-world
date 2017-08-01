@@ -1,2 +1,2 @@
 # hello-world
-the way to beginning
+the way to begin
